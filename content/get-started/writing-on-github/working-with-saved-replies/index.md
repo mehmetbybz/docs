@@ -7,7 +7,6 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 children:
   - /about-saved-replies
@@ -17,3 +16,4 @@ children:
   - /using-saved-replies
 shortTitle: Work with saved replies
 ---
+
