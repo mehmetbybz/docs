@@ -9,10 +9,11 @@ intro: 'You can use simple features to format your comments and interact with ot
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 children:
+  - /quickstart-for-writing-on-github
   - /about-writing-and-formatting-on-github
   - /basic-writing-and-formatting-syntax
 shortTitle: Start writing on GitHub
 ---
+

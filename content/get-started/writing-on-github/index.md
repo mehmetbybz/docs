@@ -6,11 +6,10 @@ redirect_from:
   - /articles/writing-on-github
   - /categories/writing-on-github
   - /github/writing-on-github
-intro: 'You can structure the information shared on {% data variables.product.product_name %} with various formatting options.'
+intro: 'You can structure the information shared on {% data variables.product.github %} with various formatting options.'
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 children:
   - /getting-started-with-writing-and-formatting-on-github

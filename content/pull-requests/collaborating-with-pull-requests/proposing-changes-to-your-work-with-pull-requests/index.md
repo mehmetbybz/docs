@@ -8,7 +8,6 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 topics:
   - Pull requests
@@ -27,3 +26,4 @@ children:
   - /committing-changes-to-a-pull-request-branch-created-from-a-fork
 shortTitle: Propose changes
 ---
+
